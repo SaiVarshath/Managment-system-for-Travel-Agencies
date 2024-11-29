@@ -3,6 +3,8 @@
 #include <windows.h>
 #include <conio.h>
 
+//author @ SaiVarshath
+
 void gotoxy(int x,int y);
 void password(char pwd[]);
 void rectangle(int x,int y,int l,int b);
@@ -101,7 +103,7 @@ int main()
 
         exit(0);
     }
-    if(strcmp(uname,"RAHAEM")==0&&strcmp(pass,"RHE")==0)
+    if(strcmp(uname,"VARSHATH")==0&&strcmp(pass,"SAI")==0)
         c=1;
     else
     {
