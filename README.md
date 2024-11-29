@@ -6,7 +6,6 @@
 
 # How to use?
 - You can fork or download the repo. Once you have the "MAIN.C" file then you need to compile and run MAIN.C
-- For Admin Panel Use Username: "RAHAEM" Password: "RHE"
 
 
 Feel free to raise issues if you find some errors or want to clear your doubts
