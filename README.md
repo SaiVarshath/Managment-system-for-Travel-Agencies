@@ -6,6 +6,7 @@
 
 # How to use?
 - You can fork or download the repo. Once you have the "MAIN.C" file then you need to compile and run MAIN.C
+- use the Username"VARSHATH" pass is "SAI"
 
 
 Feel free to raise issues if you find some errors or want to clear your doubts
